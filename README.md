@@ -20,7 +20,7 @@ from DiscordLeveling import level_maker
  
  and use
  ```py
- await leve_maker(
+ await level_maker(
     "background image url",
     "user avatar url",
     "username",
