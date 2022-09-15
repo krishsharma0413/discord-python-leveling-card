@@ -1,3 +1,6 @@
+# [ DEPRICATED WARNING ]
+A newer version should be published sooner or later!
+
 # discord-python-leveling-card
 
 A repository to help you with your discord leveling card.
